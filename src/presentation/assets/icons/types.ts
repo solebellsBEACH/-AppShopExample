@@ -1,0 +1,16 @@
+export type IIconNames =
+  | 'personOutline'
+  | 'emailOutline'
+  | 'dateOutline'
+  | 'cardOutline'
+  | 'phoneOutline'
+  | 'lockOutline'
+  | 'eye'
+  | 'eyeClose'
+  | 'homeOutline'
+  | 'home'
+  | 'shopOutline'
+  | 'shop'
+  | 'userOutline'
+  | 'user'
+  | 'placeOutline';
